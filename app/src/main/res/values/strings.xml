@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Safechat</string>
+    <string name="hello_world">Safechat Welcomes You!</string>
+    <string name="chat">Chats</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
